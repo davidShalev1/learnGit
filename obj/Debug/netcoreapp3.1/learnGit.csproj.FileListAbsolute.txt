@@ -1,0 +1,14 @@
+C:\Users\david\source\repos\learnGit\bin\Debug\netcoreapp3.1\learnGit.exe
+C:\Users\david\source\repos\learnGit\bin\Debug\netcoreapp3.1\learnGit.deps.json
+C:\Users\david\source\repos\learnGit\bin\Debug\netcoreapp3.1\learnGit.runtimeconfig.json
+C:\Users\david\source\repos\learnGit\bin\Debug\netcoreapp3.1\learnGit.runtimeconfig.dev.json
+C:\Users\david\source\repos\learnGit\bin\Debug\netcoreapp3.1\learnGit.dll
+C:\Users\david\source\repos\learnGit\bin\Debug\netcoreapp3.1\learnGit.pdb
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.AssemblyInfo.cs
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.dll
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.pdb
+C:\Users\david\source\repos\learnGit\obj\Debug\netcoreapp3.1\learnGit.genruntimeconfig.cache
