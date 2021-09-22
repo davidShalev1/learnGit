@@ -6,14 +6,16 @@ namespace learnGit
     {
         static void Main(string[] args)
         {
-            int i = 6;
-           for(int j = 0;j < 4; j++)
-            {
-                i += 1;
-                if (i == 8) break;
-            }
+            string a = "wow";
+            string b = a;
+            b = b + " change";
+            Console.WriteLine(a);
+        }
 
-            i = 0;
+        private static void foo(int[] arr)
+        {
+            int[] a = new int[] { 8, 0 };
+            
         }
     }
 }
